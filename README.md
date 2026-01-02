@@ -13,6 +13,12 @@ Transform your WordPress site into an intelligent knowledge base with AI-powered
 - 🎯 **Source Attribution** - Always shows where answers come from
 - ⚙️ **Easy Setup** - Just add your Google Gemini API key
 
+## Screenshots
+<img width="780" height="363" alt="image" src="https://github.com/user-attachments/assets/36156a7c-e5f7-40ec-a7d7-ac67e2fbf809" />
+
+<img width="780" height="414" alt="image" src="https://github.com/user-attachments/assets/e1d60ee9-0195-4ce8-a170-8f1787498fe3" />
+
+
 ## How It Works
 
 ```
